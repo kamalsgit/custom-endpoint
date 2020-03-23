@@ -1,9 +1,9 @@
 {
-  "name": "customendpointurl/custom-endpoint",
+  "name": "customendpointlink/custom-endpoint",
   "description" 	: "To create a custom endpoint and listed all users using api",
   "type": "wordpress-plugin",
   "license": "",
-  "homepage": "https://github.com/kamalsgit/customurl/tree/master/custom-endpoint",
+  "homepage": "https://github.com/kamalsgit/customendpointlink",
   "authors": [
     {
 		"name": "Mathew",
