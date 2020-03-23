@@ -1,5 +1,5 @@
 {
-  "name": "customurl/custom-endpoint",
+  "name": "customendpointurl/custom-endpoint",
   "description" 	: "To create a custom endpoint and listed all users using api",
   "type": "wordpress-plugin",
   "license": "",
