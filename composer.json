@@ -1,5 +1,5 @@
 {
-  "name": "customendpointlink/custom-endpoint",
+  "name": "endpointlink/custom-endpoint",
   "description" 	: "To create a custom endpoint and listed all users using api",
   "type": "wordpress-plugin",
   "license": "",
@@ -11,7 +11,7 @@
 	}
   ],
   "keywords": [
-    "customendpointlink"
+    "endpointlink"
   ],
   "support": {
   },
